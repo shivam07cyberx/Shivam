@@ -1,154 +1,185 @@
-# <div align="center">⚡ J.A.R.V.I.S. Developer Console ⚡</div>
-
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving\&height=320\&color=0:00F5FF,50:0066FF,100:000428\&text=SHIVAM%20PAL\&fontColor=ffffff\&fontSize=58\&animation=twinkling\&desc=Java%20Full%20Stack%20Developer\&descAlignY=68)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=SHIVAM%20PAL&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENTHUSIAST;BUILDING+REAL+WORLD+APPLICATIONS;ALWAYS+LEARNING+NEW+TECHNOLOGIES"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Full+Stack+Developer;☕+Java+Developer;🌱+Spring+Boot+Developer;⚡+Spring+MVC+%7C+Spring+Data+JPA;💻+REST+API+Developer;🛢️+MySQL+%7C+React+%7C+JSP;🔥+Always+Learning+New+Technologies;💼+Open+to+Work"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&style=for-the-badge&color=00CFFF"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🤖 JARVIS STATUS
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-STATUS           : ONLINE
-MODE             : CODING
-LANGUAGE         : JAVA
-FRAMEWORK        : SPRING BOOT
-DATABASE         : MYSQL
-MISSION          : BUILD AMAZING SOFTWARE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 👨‍💻 ABOUT ME
+# ⚡ About Me
 
 ```yaml
-Name        : Shivam Pal
-Role        : Java Full Stack Developer
-Education   : B.Tech Information Technology
-Backend     : Java • Spring Boot • Spring MVC
-Frontend    : HTML • CSS • JavaScript • JSP • React
-Database    : MySQL
-Learning    : Spring Security • Microservices • Docker
-Goal        : Software Engineer @ Product-Based Company
+Name: Shivam Pal
+
+Role: Java Full Stack Developer
+
+Education: B.Tech Information Technology
+
+Backend:
+  - Java
+  - Spring Boot
+  - Spring MVC
+  - Spring Data JPA
+  - REST APIs
+
+Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - JSP
+  - React
+
+Database:
+  - MySQL
+
+Learning:
+  - Spring Security
+  - Microservices
+  - Docker
+
+Goal:
+  Become Software Engineer at a Product Based Company
 ```
 
 ---
 
-# ⚙️ TECH ARSENAL
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,html,css,git,github,maven,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,html,css,js,git,github,maven,vscode,idea"/>
 
 </p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 Featured Projects
 
-## 🏦 Bank Management System
+<table>
 
-```text
-✔ Account Creation
-✔ Deposit & Withdrawal
-✔ Fund Transfer
-✔ Loan Management
-✔ REST APIs
+<tr>
+
+<td width="33%">
+
+### 🏦 Bank Management System
+
 ✔ Spring Boot
-```
 
----
+✔ REST API
 
-## 📚 Online Book Management System
+✔ MySQL
 
-```text
-✔ CRUD Operations
-✔ User/Admin Module
-✔ Pagination
-✔ Sorting
+✔ Deposit
+
+✔ Withdraw
+
+✔ Fund Transfer
+
+</td>
+
+<td width="33%">
+
+### 📚 Online Book Management
+
 ✔ Spring MVC
+
 ✔ JSP
+
+✔ CRUD
+
+✔ Pagination
+
+✔ Sorting
+
 ✔ MySQL
-```
 
----
+</td>
 
-## 👨‍💼 Employee Management System
+<td width="33%">
 
-```text
-✔ CRUD Operations
-✔ Search Employees
-✔ Layered Architecture
+### 👨‍💼 Employee Management
+
+✔ Spring Boot
+
+✔ CRUD
+
 ✔ Spring Data JPA
+
 ✔ JSP
+
+✔ Search
+
 ✔ MySQL
-```
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Dashboard
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 STREAK
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📈 ACTIVITY GRAPH
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
 
-</div>
+</p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</p>
 
 ---
 
-# 💻 CURRENT MISSION
+# 💻 Current Focus
 
 ```java
 public class Shivam {
@@ -165,36 +196,51 @@ public class Shivam {
         "React"
     };
 
-    String mission() {
-        return "Build scalable software and solve real-world problems.";
-    }
+    String learning = "Spring Security, Microservices, Docker";
 
     boolean openToWork = true;
+
 }
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 
-[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel)](https://YOUR_PORTFOLIO)
+</a>
 
-</div>
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-# ⚡ "Code. Learn. Build. Repeat."
+## ⚡ "Code. Learn. Build. Repeat."
 
-### ⭐ If you like my projects, consider giving them a star!
-
-![](https://capsule-render.vercel.app/api?type=waving\&section=footer\&color=0:000428,100:00F5FF\&height=140)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 </div>
