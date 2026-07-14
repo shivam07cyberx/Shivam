@@ -1,168 +1,200 @@
+# <div align="center">⚡ J.A.R.V.I.S. Developer Console ⚡</div>
+
 <div align="center">
 
-# Hi 👋 I'm Shivam Pal
+![](https://capsule-render.vercel.app/api?type=waving\&height=320\&color=0:00F5FF,50:0066FF,100:000428\&text=SHIVAM%20PAL\&fontColor=ffffff\&fontSize=58\&animation=twinkling\&desc=Java%20Full%20Stack%20Developer\&descAlignY=68)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Enthusiast;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+ENTHUSIAST;BUILDING+REAL+WORLD+APPLICATIONS;ALWAYS+LEARNING+NEW+TECHNOLOGIES"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&style=for-the-badge&color=00CFFF"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🤖 JARVIS STATUS
 
-🎓 B.Tech in Information Technology
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💻 Java Full Stack Developer
+STATUS           : ONLINE
+MODE             : CODING
+LANGUAGE         : JAVA
+FRAMEWORK        : SPRING BOOT
+DATABASE         : MYSQL
+MISSION          : BUILD AMAZING SOFTWARE
 
-🌱 Currently learning **Spring Security, Microservices & React**
-
-🧠 Strong in Java, Spring Boot, Spring MVC, Spring Data JPA
-
-📚 Love building real-world backend applications
-
-🎯 Goal: Become a Software Engineer at a top product-based company
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-# 💻 Tech Stack
+# 👨‍💻 ABOUT ME
+
+```yaml
+Name        : Shivam Pal
+Role        : Java Full Stack Developer
+Education   : B.Tech Information Technology
+Backend     : Java • Spring Boot • Spring MVC
+Frontend    : HTML • CSS • JavaScript • JSP • React
+Database    : MySQL
+Learning    : Spring Security • Microservices • Docker
+Goal        : Software Engineer @ Product-Based Company
+```
+
+---
+
+# ⚙️ TECH ARSENAL
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,react,js,html,css,git,github,vscode,maven,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,html,css,git,github,maven,vscode,idea"/>
 
 </p>
 
 ---
 
-# 🛠 Backend
+# 🚀 FEATURED PROJECTS
 
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- REST APIs
-- MySQL
-- JSP
-- Maven
+## 🏦 Bank Management System
 
----
-
-# 🚀 Featured Projects
-
-### 🏦 Bank Management System
-
-Spring Boot | REST API | MySQL
-
-✔ Deposit
-
-✔ Withdraw
-
+```text
+✔ Account Creation
+✔ Deposit & Withdrawal
 ✔ Fund Transfer
-
 ✔ Loan Management
-
-✔ Customer & Admin Module
+✔ REST APIs
+✔ Spring Boot
+```
 
 ---
 
-### 📚 Online Book Management System
+## 📚 Online Book Management System
 
-Spring MVC | JSP | MySQL
-
+```text
 ✔ CRUD Operations
-
+✔ User/Admin Module
 ✔ Pagination
-
 ✔ Sorting
-
-✔ User & Admin Module
+✔ Spring MVC
+✔ JSP
+✔ MySQL
+```
 
 ---
 
-### 👨‍💼 Employee Management System
+## 👨‍💼 Employee Management System
 
-Spring Boot | JSP | MySQL
-
+```text
 ✔ CRUD Operations
-
-✔ Employee Search
-
+✔ Search Employees
 ✔ Layered Architecture
+✔ Spring Data JPA
+✔ JSP
+✔ MySQL
+```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 STREAK
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 ACTIVITY GRAPH
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=8"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
+</div>
+
 ---
 
-# 🐍 Contribution Snake
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
 
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
 ---
 
-# 🌐 Connect With Me
+# 💻 CURRENT MISSION
 
-<p align="center">
+```java
+public class Shivam {
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+    String role = "Java Full Stack Developer";
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "Spring Data JPA",
+        "REST APIs",
+        "MySQL",
+        "React"
+    };
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+    String mission() {
+        return "Build scalable software and solve real-world problems.";
+    }
 
-</p>
+    boolean openToWork = true;
+}
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel)](https://YOUR_PORTFOLIO)
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💡 Quote
+# ⚡ "Code. Learn. Build. Repeat."
 
-*"Code. Learn. Build. Repeat."*
+### ⭐ If you like my projects, consider giving them a star!
 
-⭐ If you like my projects, don't forget to star them!
+![](https://capsule-render.vercel.app/api?type=waving\&section=footer\&color=0:000428,100:00F5FF\&height=140)
 
 </div>
